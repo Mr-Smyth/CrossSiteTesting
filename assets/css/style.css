@@ -288,7 +288,7 @@
 }
 /* STYLING FOR - THE SLIGHT FADED LINE THAT PRECEEDS SOME OF THE SECTION HEADERS, 
 USED IT TO GIVE A BIT MORE CLARITY BETWEEN SECTIONS THAT MAY BE LOST IN ALL THE WHITESPACE */
- .further-reading-container h2::before, .benefits-container h3::before, .page-container h3::before {
+ /* .further-reading-container h2::before, .benefits-container h3::before, .page-container h3::before {
      content: '';
      display: block;
      background: rgb(46,21,27);
@@ -298,7 +298,7 @@ USED IT TO GIVE A BIT MORE CLARITY BETWEEN SECTIONS THAT MAY BE LOST IN ALL THE 
      border-radius: 10px;
      height: 20px;
      margin-bottom: 10px;
-}
+} */
 /* STYLING FOR - TO REMOVE CARD BORDER STYLING */
  .card {
      border-style: none;
